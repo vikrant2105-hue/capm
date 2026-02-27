@@ -1,0 +1,1 @@
+GET http://localhost:4004/odata/v4/library/bookSet(44444444-dddd-eeee-ffff-444444444444)
