@@ -17,3 +17,8 @@ entity Books {
     // booksAgeGroup    : BooksAgeGroup
 
 }
+
+entity Library {
+    key ID : UUID;
+    libRoom : String;
+}
