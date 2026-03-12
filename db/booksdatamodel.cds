@@ -22,3 +22,9 @@ entity Library {
     key ID : UUID;
     libRoom : String;
 }
+
+entity duplBooks {
+    key ID  : UUID;
+    duplBook : String
+
+}

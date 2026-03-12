@@ -1,0 +1,8 @@
+<mvc:View controllerName="bookscapmui.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <Text text="Hi" id="t1"></Text>
+        <Text text="Hello" id="t2"></Text>
+    </Page>
+</mvc:View>
